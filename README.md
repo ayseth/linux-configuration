@@ -4,7 +4,7 @@ Linux Server Configuration project of Udacity FullStack Nanodegree
 
 - The IP address of the project is : `35.227.44.250`
 - Accessible Port is `2200`
-- The Project can be accessed by visiting the URL :  ` http://35.227.44.250.xip.io/`
+- The Project can be accessed by visiting the URL :  http://35.227.44.250.xip.io/
 
 
 
